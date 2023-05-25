@@ -20,3 +20,15 @@ Recherche A* - Résolution de Graphes
 Ce projet implémente l'algorithme de recherche A* pour résoudre des problèmes de graphe. L'utilisateur fournit un graphe ainsi qu'un objectif, et le programme détermine le chemin optimal pour atteindre cet objectif.
 
 L'objectif principal de ce projet est d'utiliser l'algorithme de recherche A* pour trouver le chemin le plus court et le plus efficace entre un nœud de départ et un nœud d'arrivée dans un graphe donné. L'algorithme A* utilise à la fois une heuristique pour estimer le coût restant et une fonction d'évaluation pour prendre en compte le coût passé et le coût estimé.
+
+3) probleme des reins 
+
+Problème des N-Reines - Résolution du Placement des Reines sur un Échiquier
+Ce projet vise à résoudre le problème des N-Reines. Il s'agit de positionner N reines sur un échiquier de taille N x N de manière à ce qu'aucune reine ne puisse menacer une autre.
+
+L'objectif principal de ce projet est de développer un algorithme efficace pour trouver toutes les configurations possibles de placement des N reines, en respectant la contrainte de non-menace. Le programme utilise une approche basée sur la recherche et l'exploration de l'espace des solutions pour trouver les arrangements valides.
+
+L'utilisateur est invité à fournir la valeur de N, correspondant au nombre de reines et à la taille de l'échiquier. Le programme génère ensuite toutes les configurations valides possibles, où chaque reine est placée sur une colonne différente et aucune reine ne peut se menacer mutuellement, que ce soit en diagonale, en ligne ou en colonne.
+
+L'implémentation utilise des techniques telles que la récursivité et la vérification des contraintes pour générer les configurations valides. 
+
