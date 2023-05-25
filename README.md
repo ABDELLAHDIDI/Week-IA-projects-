@@ -1,4 +1,5 @@
 Jeu des Cubes - Résolution du Puzzle
+
 Ce projet est une implémentation du jeu des cubes. Il consiste en la résolution d'un puzzle où nous avons trois tables et un nombre variable de cubes. L'utilisateur a la possibilité de choisir la configuration initiale et finale du puzzle, tandis que le programme détermine les mouvements possibles optimaux pour passer de l'état initial à l'état final.
 
 L'objectif principal de ce projet est de développer un algorithme efficace qui permet de trouver la solution optimale pour résoudre le puzzle. Le programme analyse les configurations des cubes et recherche la séquence de mouvements la plus courte et la plus efficace pour atteindre l'état final désiré.
