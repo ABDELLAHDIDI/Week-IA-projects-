@@ -32,3 +32,11 @@ L'utilisateur est invité à fournir la valeur de N, correspondant au nombre de 
 
 L'implémentation utilise des techniques telles que la récursivité et la vérification des contraintes pour générer les configurations valides. 
 
+4)  Projet Minimax  : 
+
+- Implémentation de l'algorithme Minimax dans le jeu du Morpion (Tic-Tac-Toe)
+Ce projet propose une implémentation de l'algorithme Minimax dans le jeu du Morpion (Tic-Tac-Toe). L'objectif principal est de développer une intelligence artificielle capable de jouer de manière optimale contre un joueur humain.
+
+L'algorithme Minimax est une technique utilisée dans les jeux à deux joueurs avec une information parfaite, comme le Morpion. Il explore de manière récursive tous les coups possibles du jeu, en attribuant des valeurs aux positions en fonction de leur avantage ou désavantage pour le joueur. Le but est de minimiser la perte maximale possible ou de maximiser le gain minimal possible.
+
+Dans ce projet, le programme permet à un joueur humain de jouer contre l'IA basée sur l'algorithme Minimax. L'IA analyse toutes les configurations possibles du jeu et choisit le meilleur coup en fonction de la stratégie Minimax. Le joueur humain joue tour à tour avec l'IA jusqu'à ce qu'un résultat final soit atteint (victoire, match nul ou défaite).
